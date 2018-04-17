@@ -4,5 +4,5 @@
 // https://github.com/beedemo/workflowLibs/blob/master/vars/helloWorld.groovy
 def call(name) {
    echo "Hello ${name}"
-   echo "Have a great day!"
+   echo "Have a stellar day!"
 }
